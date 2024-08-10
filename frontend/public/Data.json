@@ -1,0 +1,952 @@
+[
+  {
+      "id": 1,
+      "name": "Nike React Infinity Run Flyknit",
+      "category": "Men's Footwear",
+      "price": 160,
+      "description": "Nike React Infinity Run Flyknit is designed to offer a supportive and plush ride.",
+      "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/i1-665455a5-45de-40fb-945f-c1852b82400d/react-infinity-run-flyknit-mens-running-shoe-zX42Nc.jpg",
+      "stock": 3
+  },
+  {
+      "id": 2,
+      "name": "Nike React Miler",
+      "category": "Men's Footwear",
+      "price": 130,
+      "description": "The Nike React Miler provides comfort and support for every mile.",
+      "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/i1-5cc7de3b-2afc-49c2-a1e4-0508997d09e6/react-miler-mens-running-shoe-DgF6nr.jpg",
+      "stock": 3
+  },
+  {
+      "id": 3,
+      "name": "Nike Air Zoom Pegasus 37",
+      "category": "Men's Footwear",
+      "price": 120,
+      "description": "Nike Air Zoom Pegasus 37 offers a responsive and cushioned ride.",
+      "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/i1-33b0a0a5-c171-46cc-ad20-04a768703e47/air-zoom-pegasus-37-womens-running-shoe-Jl0bDf.jpg",
+      "stock": 3
+  },
+  {
+      "id": 4,
+      "name": "Nike Joyride Run Flyknit",
+      "category": "Men's Footwear",
+      "price": 180,
+      "description": "Nike Joyride Run Flyknit provides a cushioned and supportive ride with its innovative Joyride beads.",
+      "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/99a7d3cb-e40c-4474-91c2-0f2e6d231fd2/joyride-run-flyknit-womens-running-shoe-HcfnJd.jpg",
+      "stock": 3
+  },
+  {
+      "id": 5,
+      "name": "Nike Mercurial Vapor 13 Elite FG",
+      "category": "Men's Footwear",
+      "price": 250,
+      "description": "Nike Mercurial Vapor 13 Elite FG provides speed and precision on the pitch.",
+      "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9dda6202-e2ff-4711-9a09-0fcb7d90c164/mercurial-vapor-13-elite-fg-firm-ground-soccer-cleat-14MsF2.jpg",
+      "stock": 3
+  },
+  {
+      "id": 6,
+      "name": "Nike Phantom Vision Elite Dynamic Fit FG",
+      "category": "Men's Footwear",
+      "price": 150,
+      "description": "Nike Phantom Vision Elite Dynamic Fit FG is designed for agility and control.",
+      "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/s1amp7uosrn0nqpsxeue/phantom-vision-elite-dynamic-fit-fg-firm-ground-soccer-cleat-19Kv1V.jpg",
+      "stock": 3
+  },
+  {
+      "id": 7,
+      "name": "Nike Phantom Venom Academy FG",
+      "category": "Men's Footwear",
+      "price": 80,
+      "description": "Nike Phantom Venom Academy FG offers targeted strike zones and superior traction.",
+      "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/whegph8z9ornhxklc8rp/phantom-venom-academy-fg-firm-ground-soccer-cleat-6JVNll.jpg",
+      "stock": 3
+  },
+  {
+      "id": 8,
+      "name": "Nike Mercurial Vapor 13 Elite Tech Craft FG",
+      "category": "Men's Footwear",
+      "price": 145,
+      "description": "Nike Mercurial Vapor 13 Elite Tech Craft FG delivers a lightweight and responsive performance.",
+      "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/vhbwnkor8sxt8qtecgia/mercurial-vapor-13-elite-tech-craft-fg-firm-ground-soccer-cleat-l38JPj.jpg",
+      "stock": 3
+  },
+  {
+      "id": 9,
+      "name": "Nike Mercurial Superfly 7 Pro MDS FG",
+      "category": "Men's Footwear",
+      "price": 137,
+      "description": "Nike Mercurial Superfly 7 Pro MDS FG offers a sock-like fit with high-speed performance.",
+      "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/i1-a52a8aec-22dc-4982-961b-75c5f4c72805/mercurial-superfly-7-pro-mds-fg-firm-ground-soccer-cleat-mhcpdN.jpg",
+      "stock": 3
+  },
+  {
+      "id": 10,
+      "name": "Nike Air Force 1",
+      "category": "Men's Footwear",
+      "price": 90,
+      "description": "Nike Air Force 1 offers a classic look with all-day comfort.",
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/178b2a46-3ee4-492b-882e-f71efdd53a36/air-force-1-big-kids-shoe-2zqp8D.jpg",
+      "stock": 3
+  },
+  {
+      "id": 11,
+      "name": "Nike Air Max 90",
+      "category": "Men's Footwear",
+      "price": 100,
+      "description": "Nike Air Max 90 features visible Air-Sole units for added comfort.",
+      "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/8439f823-86cf-4086-81d2-4f9ff9a66866/air-max-90-big-kids-shoe-1wzwJM.jpg",
+      "stock": 3
+  },
+  {
+      "id": 12,
+      "name": "Nike Air Max 90 LTR",
+      "category": "Men's Footwear",
+      "price": 110,
+      "description": "Nike Air Max 90 LTR offers a premium leather upper with classic Air cushioning.",
+      "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/i1-620aeb37-1b28-44b0-9b14-5572f8cbc948/air-max-90-ltr-big-kids-shoe-hdNLQ5.jpg",
+      "stock": 3
+  },
+  {
+      "id": 13,
+      "name": "Nike Joyride Dual Run",
+      "category": "Men's Footwear",
+      "price": 110,
+      "description": "Nike Joyride Dual Run features a plush, responsive ride with dual cushioning.",
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/33888130-0320-41a1-ba53-a026decd8aa2/joyride-dual-run-big-kids-running-shoe-1HDJF8.jpg",
+      "stock": 3
+  },
+  {
+      "id": 14,
+      "name": "Nike Renew Run",
+      "category": "Men's Footwear",
+      "price": 80,
+      "description": "Nike Renew Run offers a comfortable and supportive ride for everyday runs.",
+      "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/i1-73e54c0b-11a6-478b-9f90-bd97fcde872d/renew-run-big-kids-running-shoe-5Bpz93.jpg",
+      "stock": 3
+  },
+  {
+      "id": 16,
+      "name": "Bridgport Advice",
+      "category": "Men's Footwear",
+      "price": 30,
+      "description": "Bridgport Advice offers classic style with a comfortable fit.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_x7MpwlpAf75-g7BJ_mYNs82XeVG_HWwP7A&s",
+      "stock": 4
+  },
+  {
+      "id": 17,
+      "name": "Beck",
+      "category": "Men's Footwear",
+      "price": 50,
+      "description": "Beck combines modern design with traditional craftsmanship.",
+      "imageUrl": "https://images-cdn.ubuy.co.in/63629e59f1696b186833cd93-italian-handmade-suede-velcro-high.jpg",
+      "stock": 4
+  },
+  {
+      "id": 18,
+      "name": "Riley",
+      "category": "Men's Footwear",
+      "price": 50,
+      "description": "Riley is known for its relaxed fit and laid-back style.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLD-Rhz7_TzLuaka7AshHpXG37ELmDReIu1A&s",
+      "stock": 4
+  },
+  
+    {
+      "id": 19,
+      "name": "Nike Air Zoom Pegasus 37",
+      "category": "Women's Footwear",
+      "price": 120,
+      "description": "Nike Air Zoom Pegasus 37 offers exceptional cushioning and support for all runners.",
+      "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/i1-33b0a0a5-c171-46cc-ad20-04a768703e47/air-zoom-pegasus-37-womens-running-shoe-Jl0bDf.jpg",
+      "stock": 3
+    },
+    {
+      "id": 20,
+      "name": "Nike Joyride Run Flyknit",
+      "category": "Women's Footwear",
+      "price": 180,
+      "description": "Nike Joyride Run Flyknit features responsive cushioning and a comfortable fit for a smooth run.",
+      "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/99a7d3cb-e40c-4474-91c2-0f2e6d231fd2/joyride-run-flyknit-womens-running-shoe-HcfnJd.jpg",
+      "stock": 3
+    },
+    {
+      "id": 21,
+      "name": "Nike Mercurial Vapor 13 Elite FG",
+      "category": "Women's Footwear",
+      "price": 250,
+      "description": "Nike Mercurial Vapor 13 Elite FG delivers explosive speed and agility on the pitch.",
+      "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9dda6202-e2ff-4711-9a09-0fcb7d90c164/mercurial-vapor-13-elite-fg-firm-ground-soccer-cleat-14MsF2.jpg",
+      "stock": 3
+    },
+    {
+      "id": 22,
+      "name": "Nike Phantom Vision Elite Dynamic Fit FG",
+      "category": "Women's Footwear",
+      "price": 150,
+      "description": "Nike Phantom Vision Elite Dynamic Fit FG offers precision and comfort for enhanced performance.",
+      "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/s1amp7uosrn0nqpsxeue/phantom-vision-elite-dynamic-fit-fg-firm-ground-soccer-cleat-19Kv1V.jpg",
+      "stock": 3
+    },
+    {
+      "id": 23,
+      "name": "Nike Phantom Venom Academy FG",
+      "category": "Women's Footwear",
+      "price": 80,
+      "description": "Nike Phantom Venom Academy FG provides power and control for every strike.",
+      "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/whegph8z9ornhxklc8rp/phantom-venom-academy-fg-firm-ground-soccer-cleat-6JVNll.jpg",
+      "stock": 3
+    },
+    {
+      "id": 24,
+      "name": "SS-HL-0135",
+      "category": "Women's Footwear",
+      "price": 30,
+      "description": "SS-HL-0135 offers a classic formal look with a comfortable fit.",
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/33888130-0320-41a1-ba53-a026decd8aa2/joyride-dual-run-big-kids-running-shoe-1HDJF8.jpg",
+      "stock": 6
+    },
+    {
+      "id": 25,
+      "name": "SS-HL-0136",
+      "category": "Women's Footwear",
+      "price": 50,
+      "description": "SS-HL-0136 features a stylish design suitable for formal occasions.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIByN2Mh9oN6QTxpagvcNssMLfk5j0o8c4iw&s",
+      "stock": 4
+    },
+    {
+      "id": 26,
+      "name": "SS-HL-0128",
+      "category": "Women's Footwear",
+      "price": 35,
+      "description": "SS-HL-0128 is designed for elegance and comfort in formal settings.",
+      "imageUrl": "https://m.media-amazon.com/images/I/81E0Qqowq0L._AC_UY1000_.jpg",
+      "stock": 3
+    },
+    {
+      "id": 27,
+      "name": "SS-MS-0075",
+      "category": "Women's Footwear",
+      "price": 25,
+      "description": "SS-MS-0075 offers a casual look with a comfortable and relaxed fit.",
+      "imageUrl":"https://shoezone.com.pk/wp-content/uploads/2021/04/HP-SS-MS-0075-BLACK-3295-3-scaled.jpg",
+      "stock": 7
+    },
+    {
+      "id": 28,
+      "name": "SS-PM-0093",
+      "category": "Women's Footwear",
+      "price": 30,
+      "description": "SS-PM-0093 combines casual style with comfort for everyday wear.",
+      "imageUrl": "https://m.media-amazon.com/images/I/31KT-x1JAjL._AC_UY1000_.jpg",
+      "stock": 3
+    },
+    {
+      "id": 29,
+      "name": "Long Sleeve Jacket",
+      "category": "women",
+      "price": 150,
+      "description": "A versatile long sleeve jacket, perfect for layering during the colder months. Made from high-quality materials, it offers both comfort and style.",
+      "imageUrl": "https://images.pexels.com/photos/2584269/pexels-photo-2584269.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "stock": 4
+    },
+    {
+      "id": 30,
+      "name": "Jacket with Woolen Hat",
+      "category": "women",
+      "price": 65,
+      "description": "Stay warm and fashionable with this jacket featuring a cozy woolen hat. Ideal for winter outings, it combines practicality with chic design.",
+      "imageUrl": "https://images.pexels.com/photos/2681751/pexels-photo-2681751.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "stock": 10
+    },
+    {
+      "id": 31,
+      "name": "Compact Fashion T-Shirt",
+      "category": "women",
+      "price": 55.99,
+      "description": "This compact fashion t-shirt is a wardrobe staple. With its simple yet elegant design, it can be paired with any outfit for a casual yet stylish look.",
+      "imageUrl": "https://images.pexels.com/photos/2752045/pexels-photo-2752045.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "stock": 15
+    },
+    {
+      "id": 32,
+      "name": "Blue Jeans",
+      "category": "women",
+      "price": 50,
+      "description": "Classic blue jeans that provide a perfect fit and timeless style. Made with durable denim, these jeans are a must-have for any wardrobe.",
+      "imageUrl": "https://images.pexels.com/photos/1485031/pexels-photo-1485031.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "stock": 8
+    },
+    {
+      "id": 33,
+      "name": "Skirts with Full Setup",
+      "category": "women",
+      "price": 695,
+      "description": "Elegant skirts with a complete outfit setup. Perfect for formal events, these skirts offer sophistication and comfort.",
+      "imageUrl": "https://images.pexels.com/photos/1631181/pexels-photo-1631181.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "stock": 5
+    },
+    {
+      "id": 34,
+      "name": "Yellow Hoody",
+      "category": "men",
+      "price": 180,
+      "description": "Bright and cheerful yellow hoody, ideal for casual wear. It's comfortable and warm, making it perfect for everyday use.",
+      "imageUrl": "https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "stock": 7
+    },
+    {
+      "id": 35,
+      "name": "Black T-Shirt for Women",
+      "category": "women",
+      "price": 20,
+      "description": "Simple and stylish black t-shirt for women. It's a versatile piece that can be dressed up or down for any occasion.",
+      "imageUrl": "https://images.pexels.com/photos/2010812/pexels-photo-2010812.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "stock": 12
+    },
+    {
+      "id": 36,
+      "name": "Gown with Red Velvet",
+      "category": "women",
+      "price": 350,
+      "description": "A luxurious gown with red velvet accents, perfect for special occasions. This gown combines elegance and comfort, making it a standout piece.",
+      "imageUrl": "https://images.pexels.com/photos/2233703/pexels-photo-2233703.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "stock": 3
+    },
+    {
+      "id": 37,
+      "name": "Pink Beauty",
+      "category": "women",
+      "price": 100,
+      "description": "A beautiful pink dress that's perfect for summer. It's light, comfortable, and adds a touch of femininity to any outfit.",
+      "imageUrl": "https://images.pexels.com/photos/2065195/pexels-photo-2065195.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "stock": 9
+    },
+    {
+      "id": 38,
+      "name": "Jean's Stylish Jacket",
+      "category": "men",
+      "price": 245,
+      "description": "A stylish jacket made from high-quality denim. It's perfect for a casual yet trendy look.",
+      "imageUrl": "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "stock": 6
+    },
+    {
+      "id": 39,
+      "name": "Jamdani Saree",
+      "category": "women",
+      "price": 800,
+      "description": "An exquisite Jamdani saree, perfect for traditional occasions. It's intricately woven and offers a timeless elegance.",
+      "imageUrl": "https://images.pexels.com/photos/3363204/pexels-photo-3363204.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "stock": 2
+    },
+    {
+      "id": 40,
+      "name": "Black Jacket",
+      "category": "men",
+      "price": 140,
+      "description": "A classic black jacket that's versatile and stylish. It's suitable for both casual and formal wear.",
+      "imageUrl": "https://images.pexels.com/photos/983497/pexels-photo-983497.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "stock": 10
+    },
+    {
+      "id": 41,
+      "name": "Black Top with Jeans",
+      "category": "women",
+      "price": 120,
+      "description": "A chic black top paired with jeans, perfect for a casual day out. The top is stylish and comfortable.",
+      "imageUrl": "https://images.pexels.com/photos/3672825/pexels-photo-3672825.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "stock": 11
+    },
+    {
+      "id": 42,
+      "name": "Clothes with Bag",
+      "category": "kids",
+      "price": 50,
+      "description": "A cute outfit for kids, complete with a matching bag. It's perfect for both playtime and outings.",
+      "imageUrl": "https://images.pexels.com/photos/36029/aroni-arsa-children-little.jpg?auto=compress&cs=tinysrgb&w=600",
+      "stock": 14
+    },
+    {
+      "id": 43,
+      "name": "Stylish Jeans in Light Blue",
+      "category": "women",
+      "price": 100,
+      "description": "Light blue jeans that are stylish and comfortable. They offer a perfect fit and can be paired with any top.",
+      "imageUrl": "https://images.pexels.com/photos/2738792/pexels-photo-2738792.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "stock": 7
+    },
+    {
+      "id": 44,
+      "name": "Unknown Horizon",
+      "category": "men",
+      "price": 350,
+      "description": "A unique piece that stands out in any crowd. This item offers a bold and modern look.",
+      "imageUrl": "https://images.pexels.com/photos/2866077/pexels-photo-2866077.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "stock": 5
+    },
+    {
+      "id": 45,
+      "name": "Light Tops",
+      "category": "women",
+      "price": 120,
+      "description": "A collection of light tops perfect for summer. They are comfortable, stylish, and come in a variety of colors.",
+      "imageUrl": "https://images.pexels.com/photos/2010925/pexels-photo-2010925.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "stock": 12
+    },
+    {
+      "id": 46,
+      "name": "Khaki Jeans",
+      "category": "women",
+      "price": 190,
+      "description": "Stylish khaki jeans that offer a great fit and versatile style. Perfect for casual and semi-formal occasions.",
+      "imageUrl": "https://images.pexels.com/photos/3054973/pexels-photo-3054973.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "stock": 6
+    },
+    {
+      "id": 47,
+      "name": "Black Full Sleeve",
+      "category": "women",
+      "price": 170,
+      "description": "A black full-sleeve top that's perfect for layering. It's versatile and can be worn for both casual and formal occasions.",
+      "imageUrl": "https://images.pexels.com/photos/2693849/pexels-photo-2693849.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "stock": 9
+    },
+    {
+      "id": 48,
+      "name": "Formal for Men",
+      "category": "men",
+      "price": 490,
+      "description": "A formal suit for men that's perfect for business and special events. It offers a sophisticated and polished look.",
+      "imageUrl": "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "stock": 3
+    },
+    {
+      "id": 49,
+      "name": "Casual Denim Shirt",
+      "category": "men",
+      "price": 85,
+      "description": "A stylish casual denim shirt perfect for everyday wear. It's comfortable and durable, ideal for a relaxed look.",
+      "imageUrl": "https://images-cdn.ubuy.co.in/6672961d0f697e727819945e-coofandy-men-39-s-denim-shirt-long.jpg",
+      "stock": 10
+    },
+    {
+      "id": 50,
+      "name": "Formal Black Suit",
+      "category": "men",
+      "price": 500,
+      "description": "A classic formal black suit, perfect for business meetings and formal events. Made from high-quality materials, it offers a sleek and professional appearance.",
+      "imageUrl": "https://blackberrys.com/cdn/shop/files/2_Pcs_Suit_In_Black_Dorris-CPNM1975Z1BA23FL-image8.jpg?v=1703567871&width=2000",
+      "stock": 4
+    },
+    {
+      "id": 51,
+      "name": "Brown Leather Jacket",
+      "category": "men",
+      "price": 300,
+      "description": "A rugged brown leather jacket that combines style and functionality. It's perfect for a cool, casual look and offers excellent protection against the elements.",
+      "imageUrl": "https://images.pexels.com/photos/936054/pexels-photo-936054.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "stock": 7
+    },
+    {
+      "id": 52,
+      "name": "Grey Woolen Sweater",
+      "category": "men",
+      "price": 75,
+      "description": "A warm grey woolen sweater, perfect for the colder months. It's soft, comfortable, and easy to layer with other clothing.",
+      "imageUrl": "https://godfrey.co.in/wp-content/uploads/2023/09/1825A-1A.jpg",
+      "stock": 15
+    },
+    {
+      "id": 53,
+      "name": "Striped Polo Shirt",
+      "category": "men",
+      "price": 40,
+      "description": "A classic striped polo shirt that offers a smart-casual look. It's made from breathable fabric, perfect for warm weather.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd4pH8Wsfo-J4cmLKdPc0gQbLOuEhUqne0tw&s",
+      "stock": 20
+    },
+    {
+      "id": 1020155,
+      "name": "Headphones Wireless",
+      "category": "Electronics",
+      "price": 103.2,
+      "description": "Experience true freedom with these wireless headphones. Featuring high-fidelity sound and a comfortable design, they are perfect for both work and leisure.",
+      "imageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MQTQ3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1687660671363",
+      "stock": 50
+    },
+    {
+      "id": 2025454,
+      "name": "Gaming Headphone",
+      "category": "Electronics",
+      "price": 270,
+      "description": "Immerse yourself in the game with these top-of-the-line gaming headphones. They offer crystal-clear sound and a noise-cancelling microphone for perfect communication.",
+      "imageUrl": " https://resource.logitechg.com/w_692,c_lpad,ar_4:3,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/g733/gallery/g733-white-gallery-1.png?v=1",
+      "stock": 35
+    },
+    {
+      "id": 305455,
+      "name": "Headphone with Mic",
+      "category": "Electronics",
+      "price": 360,
+      "description": "Comfort meets functionality with these headphones. Designed with re-engineered leatherette ear cushions, they provide exceptional noise isolation and comfort for all-day use.",
+      "imageUrl": "https://i.ibb.co/xDqmwGW/headphone-8.webp",
+      "stock": 25
+    },
+    {
+      "id": 405455,
+      "name": "Galaxy Android Tablet",
+      "category": "Electronics",
+      "price": 340,
+      "description": "A powerful Android tablet by Samsung, ideal for both productivity and entertainment. Featuring a sleek design and a vivid display.",
+      "imageUrl": "https://m.media-amazon.com/images/I/819hAP4xoGS.jpg",
+      "stock": 15
+    },
+    {
+      "id": 505455,
+      "name": "iPhone 14 Pro",
+      "category": "Electronics",
+      "price": 1350,
+      "description": "The latest iPhone 14 Pro offers a stunning design and advanced technology. Perfect for those who want the best in performance and style.",
+      "imageUrl": "https://i.ibb.co/gmdpWtD/mobile-5.webp",
+      "stock": 10
+    },
+    {
+      "id": 605455,
+      "name": "Apple iPad Air",
+      "category": "Electronics",
+      "price": 949.99,
+      "description": "The Apple iPad Air combines power and portability with its slim design and powerful performance. Great for work, creativity, and entertainment.",
+      "imageUrl": "https://i.ibb.co/G9ttXCM/ipad-1.webp",
+      "stock": 20
+    },
+    {
+      "id": 705455,
+      "name": "Sony Smart Watch",
+      "category": "Electronics",
+      "price": 189.99,
+      "description": "Stay connected and track your fitness with the Sony Smart Watch. It offers a range of features including heart rate monitoring and smartphone notifications.",
+      "imageUrl": "https://i.ibb.co/sQmZc0x/watch-5.webp",
+      "stock": 30
+    },
+    {
+      "id": 805455,
+      "name": "Sony Lady Fitness Watch",
+      "category": "Electronics",
+      "price": 169,
+      "description": "Designed for active women, this fitness watch by Sony tracks your workouts, sleep, and daily activities. Stylish and functional, it's perfect for any fitness enthusiast.",
+      "imageUrl": "https://i.ibb.co/w4K4TY2/watch-9.webp",
+      "stock": 25
+    },
+    {
+      "id": 905455,
+      "name": "Apple Watch Sport Band",
+      "category": "Electronics",
+      "price": 399.99,
+      "description": "The Apple Watch Sport Band is perfect for those with an active lifestyle. It offers a comfortable fit and advanced features to keep you on track.",
+      "imageUrl": "https://i.ibb.co/xqQtGPr/watch-1.webp",
+      "stock": 20
+    },
+    {
+      "id": 1005455,
+      "name": "Lenovo Wireless Bluetooth",
+      "category": "Electronics",
+      "price": 79.99,
+      "description": "Enjoy seamless connectivity with the Lenovo Wireless Bluetooth. It offers excellent sound quality and a comfortable fit for extended use.",
+      "imageUrl": "https://i.ibb.co/0XPd7D4/blutooth-4.webp",
+      "stock": 50
+    },
+    {
+      "id": 1105455,
+      "name": "Lenovo Sports Bluetooth",
+      "category": "Electronics",
+      "price": 49,
+      "description": "Perfect for sports and workouts, these Lenovo Bluetooth earphones are lightweight and offer great sound quality. Stay connected on the go.",
+      "imageUrl": "https://i.ibb.co/YNLw2QM/blutooth-1.webp",
+      "stock": 60
+    },
+    {
+      "id": 1205455,
+      "name": "DeepCool Air Cooler",
+      "category": "Electronics",
+      "price": 110,
+      "description": "Keep your CPU cool with the DeepCool Air Cooler. It offers efficient cooling and a sleek design, perfect for high-performance PCs.",
+      "imageUrl": "https://i.ibb.co/2d2qBRb/cpu-1.webp",
+      "stock": 30
+    },
+    {
+      "id": 1305455,
+      "name": "Antec Air Cooler",
+      "category": "Electronics",
+      "price": 170,
+      "description": "The Antec Air Cooler provides excellent cooling for your CPU. Its advanced design ensures optimal performance and longevity for your system.",
+      "imageUrl": "https://i.ibb.co/yqndcgs/cpu-5.webp",
+      "stock": 20
+    },
+    {
+      "id": 1024,
+      "name": "Loose Mineral Eyeshadow",
+      "category": "Makeup & Beauty",
+      "price": 40.0,
+      "description": "Long-lasting eye colours delivering an instant glam and shimmer. Silky and soft texture of MarieNatie glides on easily when applied wet or dry. .",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM7MVuObGYgVREPHWx_XJ8eB0mouJpnhgAqA&s ",
+      "stock": 0
+    },
+    {
+      "id": 1023,
+      "name": "Lipstick",
+      "category": "Makeup & Beauty",
+      "price": 20.0,
+      "description": "A pure and creamy lipstick by MarieNatie formulated with organic jojoba, avocado, and coconut oil which are rich in anti-oxidants and have moisturizing benefits. ",
+      "imageUrl": "https://m.media-amazon.com/images/I/71UIxZyRBKL._AC_UF1000,1000_QL80_.jpg",
+      "stock": 0
+    },
+    {
+      "id": 1022,
+      "name": "Lip Gloss",
+      "category": "Makeup & Beauty",
+      "price": 40.0,
+      "description": "MarieNatie offers a gluten free and vegan lip gloss providing rich colours and shine without the stickiness. The natural oils will offer moisturizing properties and lasting hydration for your lips.",
+      "imageUrl": "https://revolutionbeauty.in/cdn/shop/products/5057566674867-2.jpg?v=1674328875",
+      "stock": 0
+    },
+    {
+      "id": 1021,
+      "name": "Gel Liner",
+      "category": "Makeup & Beauty",
+      "price": 5.0,
+      "description": "This smooth and creamy formula from MarieNatie will provide a silky soft and non-oily finish. It glides on evenly to deliver immediate results.",
+      "imageUrl": "https://m.media-amazon.com/images/I/81wT00XayxL.jpg",
+      "stock": 0
+    },
+    {
+      "id": 1020,
+      "name": "Eyeliner",
+      "category": "Makeup & Beauty",
+      "price": 70.0,
+      "description": "An eyeliner that offers long lasting colour and a natural smooth finish. Both jojoba oil and meadowfoam oil have amazing moisturizing properties to help repair skin.",
+      "imageUrl": "https://artdeco.com/cdn/shop/collections/Kategoriebanner-Eyeliner-Kajal.jpg?v=1695401377&width=1024",
+      "stock": 0
+    },
+    {
+      "id": 1019,
+      "name": "Mineral Eye Brow Liner Charcoal Brown",
+      "category": "Makeup & Beauty",
+      "price": 30.0,
+      "description": "An eyeliner that offers long lasting colour and a natural smooth finish. Both jojoba oil and meadowfoam oil have amazing moisturizing properties to help repair skin",
+      "imageUrl": "https://m.media-amazon.com/images/I/51ay1swOFbL.jpg",
+      "stock": 0
+    },
+    {
+      "id": 1018,
+      "name": "Mascara",
+      "category": "Makeup & Beauty",
+      "price": 90.0,
+      "description": "All natural mascara lengthens, thickens, and defines lashes. Created with coffee extract, rice proteins and sunflower oil to condition lashes. ",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Mascara_de_pesta%C3%B1as.jpg/1200px-Mascara_de_pesta%C3%B1as.jpg",
+      "stock": 0
+    },
+    {
+      "id": 1017,
+      "name": "Creme to Powder Blush",
+      "category": "Makeup & Beauty",
+      "price": 60.0,
+      "description": "A cream to powder blush made with all natural ingredients that applies like a soft cream but finishes like a silky powder. Antioxidant-rich botanicals help moisturize the skin,",
+      "imageUrl": "https://patrickta.com/cdn/shop/files/BlushDuo-PDP-av-05_5c62afc8-f2e7-473a-8840-b5fdd2843d12.jpg?v=1711609997&width=2000",
+      "stock": 0
+    },
+    {
+      "id": 1016,
+      "name": "Eye Shadow Palette Mesmerize",
+      "category": "Makeup & Beauty",
+      "price": 70.0,
+      "description": "A four-color eyeshadow palette infused with natural minerals and antioxidant rich extracts to help prevent fine lines and wrinkles. ",
+      "imageUrl": "https://m.media-amazon.com/images/I/619ERI9B8-L._AC_UF1000,1000_QL80_.jpg",
+      "stock": 0
+    },
+    {
+      "id": 1015,
+      "name": "Eye Shadow Palette Deluxe",
+      "category": "Makeup & Beauty",
+      "price": 70.0,
+      "description": "A four-color eyeshadow palette infused with natural minerals and antioxidant rich extracts to help prevent fine lines and wrinkles.",
+      "imageUrl": "https://m.media-amazon.com/images/I/91c9donltLL._AC_UF1000,1000_QL80_.jpg",
+      "stock": 0
+    },
+    {
+      "id": 1014,
+      "name": "Eye Shadow Palette Smokey",
+      "category": "Makeup & Beauty",
+      "price": 40.0,
+      "description": "A four-color eyeshadow palette infused with natural minerals and antioxidant rich extracts to help prevent fine lines and wrinkles.",
+      "imageUrl": "https://im.idiva.com/photogallery/2019/Oct/Huda-Beauty-Obsessions-Palette---Smokey-Obsessions_5db04bcccc9c8.jpg?w=600&h=450&cc=1",
+      "stock": 0
+    },
+    {
+      "id": 60,
+      "author": "Chinua Achebe",
+      "name": "Things Fall Apart",
+      "category": "Books",
+      "country": "Nigeria",
+      "imageUrl": "https://m.media-amazon.com/images/I/71U3iRYNsFL._AC_UF1000,1000_QL80_.jpg",
+      "language": "English",
+      "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart",
+      "pages": 209,
+      "year": 1958,
+      "price": 15.99,
+      "description": "A powerful novel about the clash between traditional African culture and the forces of colonialism and change. Achebe's storytelling brings the life and struggles of the Igbo community vividly to life."
+    },
+    {
+      "id": 61,
+      "author": "Hans Christian Andersen",
+      "name": "Fairy tales",
+      "category": "Books",
+      "country": "Denmark",
+      "imageUrl": "https://m.media-amazon.com/images/I/71lQ72okx+L._AC_UF1000,1000_QL80_.jpg",
+      "language": "Danish",
+      "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.",
+      "pages": 784,
+      "year": 1836,
+      "price": 25.00,
+      "description": "A collection of classic fairy tales that have delighted children and adults alike for generations. Andersen's stories are filled with imagination, whimsy, and timeless moral lessons."
+    },
+    {
+      "id": 62,
+      "author": "Dante Alighieri",
+      "name": "The Divine Comedy",
+      "category": "Books",
+      "country": "Italy",
+      "imageUrl": "https://m.media-amazon.com/images/I/51i-9SGWr-L._AC_UF1000,1000_QL80_.jpg",
+      "language": "Italian",
+      "link": "https://en.wikipedia.org/wiki/Divine_Comedy",
+      "pages": 928,
+      "year": 1315,
+      "price": 19.99,
+      "description": "An epic poem that takes the reader on a journey through Hell, Purgatory, and Heaven. Dante's masterful work explores themes of sin, redemption, and the human condition."
+    },
+    {
+      "id": 63,
+      "author": "Lana",
+      "name": "The Epic Of Gilgamesh",
+      "category": "Books",
+      "country": "Sumer and Akkadian Empire",
+      "imageUrl": "https://m.media-amazon.com/images/I/81d4BxH9I7L._AC_UF1000,1000_QL80_.jpg",
+      "language": "Akkadian",
+      "link": "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh",
+      "pages": 160,
+      "year": -1700,
+      "price": 12.99,
+      "description": "One of the oldest known literary works, this epic tells the story of Gilgamesh, a legendary king, and his quest for immortality. It is a profound exploration of friendship, heroism, and the meaning of life."
+    },
+    {
+      "id": 64,
+      "author": "Mia Rhoades",
+      "name": "The Book Of Job",
+      "category": "Books",
+      "country": "Achaemenid Empire",
+      "imageUrl": "https://m.media-amazon.com/images/I/81Y310EdIGL._AC_UF1000,1000_QL80_.jpg",
+      "language": "Hebrew",
+      "link": "https://en.wikipedia.org/wiki/Book_of_Job",
+      "pages": 176,
+      "year": -600,
+      "price": 9.99,
+      "description": "A biblical text that addresses the nature of suffering and the justice of God. The story of Job's trials and his unwavering faith continues to inspire and challenge readers."
+    },
+    {
+      "id": 65,
+      "author": "Jhonny adams",
+      "name": "One Thousand and One Nights",
+      "category": "Books",
+      "country": "India/Iran/Iraq/Egypt/Tajikistan",
+      "imageUrl": "https://m.media-amazon.com/images/I/81ANAMxZ3hL._AC_UF1000,1000_QL80_.jpg",
+      "language": "Arabic",
+      "link": "https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights",
+      "pages": 288,
+      "year": 1200,
+      "price": 18.00,
+      "description": "A collection of Middle Eastern folktales compiled over centuries. The stories, told by Scheherazade, are rich in adventure, romance, and moral lessons."
+    },
+    {
+      "id": 67,
+      "author": "Ava sins",
+      "name": "Njál's Saga",
+      "category": "Books",
+      "country": "Iceland",
+      "imageUrl": "https://m.media-amazon.com/images/I/71F7H6zQ+LL._AC_UF1000,1000_QL80_.jpg",
+      "language": "Old Norse",
+      "link": "https://en.wikipedia.org/wiki/Nj%C3%A1ls_saga",
+      "pages": 384,
+      "year": 1350,
+      "price": 14.99,
+      "description": "A medieval Icelandic saga that tells the story of a long-standing blood feud. The narrative provides insight into the culture and legal system of Iceland during the Viking Age."
+    },
+    {
+      "id": 68,
+      "author": "Jane Austen",
+      "name": "Pride and Prejudice",
+      "category": "Books",
+      "country": "United Kingdom",
+      "imageUrl": "https://cdn.kobo.com/book-images/1a735d96-6075-4bca-87b7-15fb97ee50c7/1200/1200/False/pride-and-prejudice-216.jpg",
+      "language": "English",
+      "link": "https://en.wikipedia.org/wiki/Pride_and_Prejudice",
+      "pages": 226,
+      "year": 1813,
+      "price": 10.99,
+      "description": "A beloved romantic novel that critiques the British landed gentry at the end of the 18th century. The story of Elizabeth Bennet and Mr. Darcy's complicated relationship is timeless."
+    },
+    {
+      "id": 69,
+      "author": "Honoré de Balzac",
+      "name": "Le Père Goriot",
+      "category": "Books",
+      "country": "France",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389768126i/59145.jpg",
+     
+      "price": 13.50,
+      "description": "A novel about the lives of the residents of a Parisian boarding house, focusing on the tragic figure of Père Goriot. Balzac's work explores themes of family, ambition, and societal change."
+    },
+    {
+      "id": 70,
+      "author": "Samuel Beckett",
+      "name": "Molloy, Malone Dies, The Unnamable, the trilogy",
+      "category": "Books",
+      "country": "Republic of Ireland",
+      "imageUrl": "https://m.media-amazon.com/images/I/81lX3kYS1yL._AC_UF1000,1000_QL80_.jpg",
+      "year": 1952,
+      "price": 16.99,
+      "description": "A trilogy of novels that explore existential themes and the human condition. Beckett's minimalist style and dark humor make these works profound and challenging."
+    },
+    {
+      "id": 71,
+      "author": "Giovanni Boccaccio",
+      "name": "The Decameron",
+      "category": "Books",
+      "country": "Italy",
+      "imageUrl": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781625583918/decameron-9781625583918_hr.jpg",
+      
+      "price": 22.00,
+      "description": "A collection of 100 tales told by a group of young people sheltering in a secluded villa to escape the Black Death. Boccaccio's work is both a critique of society and a celebration of life and love."
+    },
+    {
+      "id": 72,
+      "author": "Jorge Luis Borges",
+      "name": "Ficciones",
+      "category": "Books",
+      "country": "Argentina",
+      "imageUrl": "https://m.media-amazon.com/images/I/61aCU68SLIL._AC_UF1000,1000_QL80_.jpg",
+      "language": "Spanish",
+      "link": "https://en.wikipedia.org/wiki/Ficciones",
+      "pages": 224,
+      "year": 1965,
+      "price": 12.50,
+      "description": "A collection of surreal and fantastical short stories that explore philosophical concepts and the nature of reality. Borges' work is highly influential and revered in the literary world."
+    },
+    {
+      "id": 73,
+      "author": "Emily Brontë",
+      "name": "Wuthering Heights",
+      "category": "Books",
+      "country": "United Kingdom",
+      "imageUrl": "https://m.media-amazon.com/images/I/81T34Sem-tL._AC_UF1000,1000_QL80_.jpg",
+      "language": "English",
+      "link": "https://en.wikipedia.org/wiki/Wuthering_Heights",
+      "pages": 342,
+      "year": 1847,
+      "price": 11.99,
+      "description": "A haunting and passionate tale of love and revenge set on the Yorkshire moors. The complex characters and dark atmosphere make this a classic of English literature."
+    },
+    {
+      "id":74,
+      "name": "Brown eggs",
+      "type": "dairy",
+      "description": "Raw organic brown eggs in a basket",
+      "filename": "0.jpg",
+      "height": 600,
+      "width": 400,
+      "price": 28.1,
+      "rating": 4,
+      "category": "Grocery",
+      "imageUrl": "https://static.toiimg.com/photo/91236770.cms"
+    },
+    {
+      "id":75,
+      "name": "Sweet fresh strawberry",
+      "type": "fruit",
+      "description": "Sweet fresh strawberry ",
+      "filename": "1.jpg",
+      "height": 450,
+      "width": 299,
+      "price": 29.45,
+      "rating": 4,
+      "category": "Grocery",
+      "imageUrl": "https://img.freepik.com/premium-photo/sweet-fresh-strawberry-wooden-table_221774-2085.jpg"
+    },
+    {
+      "id":76,
+      "name": "Asparagus",
+      "type": "vegetable",
+      "description": "Asparagus with ham on the wooden table",
+      "filename": "2.jpg",
+      "height": 450,
+      "width": 299,
+      "price": 18.95,
+      "rating": 3,
+      "category": "Grocery",
+      "imageUrl": "https://images.news18.com/ibnlive/uploads/2023/08/unnamed-design-2023-08-24t175327.758.jpg"
+    },
+    {
+      "id":77,
+      "name": "Green smoothie",
+      "type": "dairy",
+      "description": "Glass of green smoothie with quail egg's yolk, served with cocktail tube, green apple and baby spinach leaves over tin surface.",
+      "filename": "3.jpg",
+      "height": 600,
+      "width": 399,
+      "price": 17.68,
+      "rating": 4,
+      "category": "Grocery",
+      "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2022/12/green-smoothie-recipes.jpg"
+    },
+    {
+      "id":78,
+      "name": "Raw legums",
+      "type": "vegetable",
+      "description": "Raw legums on the wooden table",
+      "filename": "4.jpg",
+      "height": 450,
+      "width": 299,
+      "price": 17.11,
+      "rating": 2,
+      "category": "Grocery",
+      "imageUrl": "https://lornahealth.com/app/uploads/2019/04/beans-legumes-raw-bags.jpg"
+    },
+    {
+      "id":79,
+      "name": "Baking cake",
+      "type": "dairy",
+      "description": "Baking cake in rural kitchen - dough recipe ingredients (eggs, flour, sugar) on vintage wooden table from above.",
+      "filename": "5.jpg",
+      "height": 450,
+      "width": 675,
+      "price": 11.14,
+      "rating": 4,
+      "category": "Grocery",
+      "imageUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2013/05/easy-lemon-layer-cake-hero-e54adca.jpg?resize=1200%2C630"
+    },
+    {
+      "id":80,
+      "name": "Pesto with basil",
+      "type": "vegetable",
+      "description": "Italian traditional pesto with basil, cheese and oil",
+      "filename": "6.jpg",
+      "height": 450,
+      "width": 299,
+      "price": 18.19,
+      "rating": 2,
+      "category": "Grocery",
+      "imageUrl": "https://img.taste.com.au/UHXBGP9m/taste/2016/11/basil-pesto-3733-1.jpeg"
+    }
+  
+]
