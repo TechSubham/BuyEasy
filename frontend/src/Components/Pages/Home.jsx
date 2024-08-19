@@ -1,6 +1,5 @@
 import React from "react";
 import Navbar from "../Navbar/Navbar";
-// import { useNavigate } from "react-router-dom";
 import banner from './banner.jpg'
 
 const Home = () => {
@@ -242,7 +241,6 @@ const Home = () => {
           </div>
         </div>
 
-        {/* Footer */}
         <footer className="bg-gray-800 text-white py-4">
           <div className="container mx-auto text-center">
             <p>&copy; 2024 E-Commerce Site. All rights reserved.</p>
